@@ -77,6 +77,14 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,git,html,mysql,nodejs,php&perline=9" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JhZDV4OGs3Z2xqZGRvd3VhbWQzNHE2emVtenEzdTUwbG55bXNmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+Developer;Fullstack+Web+Developer;AI+Enthusiast;Always+Learning..." />
+</p>
+
 <br/>
 
 <a align="left" href="#"><img width="100%" height="1" src="./assets/images/separator.gif" /></a>
