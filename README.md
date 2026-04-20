@@ -99,8 +99,7 @@
 
 <img src="./assets/images/stars.gif" align="left" width="100" height="125" />
 <img src="./assets/images/stars.gif" align="right" width="100" height="125" />
-
-<p align="center">Made with ❤️ in Indonesian </p>
+<!-- <p align="center">Made with ❤️ in Indonesian </p> -->
 
 <h1 align="center">⚡️<i>Enjoy!</i>⚡️</h1>
 
